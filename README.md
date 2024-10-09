@@ -29,4 +29,8 @@ El programa permite crear instancias de `Pelicula` y `Serie`, evaluar su rendimi
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone <url-del-repositorio>```
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Siéntete libre de hacer un fork del proyecto y enviar un pull request.
